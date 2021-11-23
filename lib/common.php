@@ -3,9 +3,6 @@ session_start();
 require_once(__DIR__.'/database.php');
 
 /*
- * Author  Avinash Kumar  < toAvinash@clipming.com >
- * Copyright 2016 ClipMing.Com
- *
  *
  * This page handles basic functionality of
  * clipming, so it is mostly required by

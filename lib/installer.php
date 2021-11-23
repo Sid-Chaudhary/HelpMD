@@ -3,10 +3,6 @@ require_once(__DIR__.'/database.php');
 require_once(__DIR__.'/query.php');
 require_once(__DIR__.'/data.values.php');
 
-/*
- * Author  Avinash Kumar  < toAvinash@clipming.com >
- * Copyright 2016 ClipMing.Com
- */
 
 // - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 

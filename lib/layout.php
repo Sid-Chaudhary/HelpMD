@@ -3,16 +3,6 @@ require_once('lib/data.values.php');
 require_once("lib/installer.php");
 require_once('lib/client.php');
 
-/*
- * Author  Avinash Kumar  < toAvinash@clipming.com >
- * Copyright 2017 ClipMing.Com
- *
- *
- * This module provides communication with
- */
-
-// - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
-
 class layout {
 	public $tabHtm = "";
 	public $disease = "";

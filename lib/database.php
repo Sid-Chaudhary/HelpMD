@@ -1,16 +1,14 @@
 <?php
 /*
  *
- * This page handles basic functionality of
- * clipming, so it is mostly required by
- * most of the module.
+ * This page handles most of the backend work, 
+ * hence this module is required by most of the app.
  */
 
 // - -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 /*
-* It handles the every Database operation
-* and makes error log.
+* This script handles the database operations and logs error messages
 */
 
 class Database

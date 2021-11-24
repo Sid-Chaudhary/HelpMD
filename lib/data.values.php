@@ -1,5 +1,5 @@
 <?php
-// Table schemas
+// Schema structure and disease descriptions
 
 $col = array();
 
@@ -207,6 +207,10 @@ $BitVal['physiological']['Hemrochromatis'] =
 array(1, 1, 0, 0, 0, 0);
 
 
+// begin disease descriptions
+
+
+
 $article['Hepatitis'] = '		<div class="display-4 mb-4">Hepatitis</div>
 		<p>
 			Hepatitis A is mostly spread through infected food and water.
@@ -344,5 +348,7 @@ $article['Hemrochromatis'] = '<div class="display-4 mb-4">Hemochromatosis</div>
 This process can take months.</li>
   </ul>
 </p>';
+
+// end
 
 ?>
